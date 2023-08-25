@@ -80,6 +80,7 @@ WING and NUS Postgraduate Students:
 * Zheng Jiaqi (T2010)
 * Zhu Tongyao (T2310)
 * [Zhang Ze Yu](https://www.linkedin.com/in/ze-yu-z-b9033918a/) (T2310)
+* Yan Zehong (T2310)
 
 **WING Undergraduates and SoC Undergraduates**:
 * [Aadit Rahul Kamat](https://www.linkedin.com/in/aaditkamat/?originalSubdomain=sg) (T2020; DYOM)
